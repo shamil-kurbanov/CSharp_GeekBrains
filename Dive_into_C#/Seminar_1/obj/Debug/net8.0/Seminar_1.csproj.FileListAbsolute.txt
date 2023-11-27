@@ -1,0 +1,15 @@
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_1\bin\Debug\net8.0\Seminar_1.exe
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_1\bin\Debug\net8.0\Seminar_1.deps.json
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_1\bin\Debug\net8.0\Seminar_1.runtimeconfig.json
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_1\bin\Debug\net8.0\Seminar_1.dll
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_1\bin\Debug\net8.0\Seminar_1.pdb
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_1\obj\Debug\net8.0\Seminar_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_1\obj\Debug\net8.0\Seminar_1.AssemblyInfoInputs.cache
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_1\obj\Debug\net8.0\Seminar_1.AssemblyInfo.cs
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_1\obj\Debug\net8.0\Seminar_1.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_1\obj\Debug\net8.0\Seminar_1.sourcelink.json
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_1\obj\Debug\net8.0\Seminar_1.dll
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_1\obj\Debug\net8.0\refint\Seminar_1.dll
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_1\obj\Debug\net8.0\Seminar_1.pdb
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_1\obj\Debug\net8.0\Seminar_1.genruntimeconfig.cache
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_1\obj\Debug\net8.0\ref\Seminar_1.dll
