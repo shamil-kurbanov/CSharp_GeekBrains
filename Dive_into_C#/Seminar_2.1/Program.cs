@@ -18,7 +18,7 @@ class Program
 {
 	public static void Main()
 	{
-		// Step 1: Define a 3x3 two-dimensional array
+		// Step 1: Define a 3x3 two-dimensional array 
 
 		int[,] twoDimensionArray =
 		{
