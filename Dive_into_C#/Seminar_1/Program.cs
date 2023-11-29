@@ -8,7 +8,7 @@ class Program
 	{
 		if (args.Length != 3)
 		{
-			WriteLine("Usage: program.exe <operand1> <operator> <operand2>");
+			WriteLine("Usage: Program.exe <operand1> <operator> <operand2>");
 			return;
 		}
 
