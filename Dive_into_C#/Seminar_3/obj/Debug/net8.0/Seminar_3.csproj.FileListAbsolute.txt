@@ -1,0 +1,15 @@
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_3\obj\Debug\net8.0\Seminar_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_3\obj\Debug\net8.0\Seminar_3.AssemblyInfoInputs.cache
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_3\obj\Debug\net8.0\Seminar_3.AssemblyInfo.cs
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_3\obj\Debug\net8.0\Seminar_3.csproj.CoreCompileInputs.cache
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_3\obj\Debug\net8.0\Seminar_3.sourcelink.json
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_3\bin\Debug\net8.0\Seminar_3.exe
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_3\bin\Debug\net8.0\Seminar_3.deps.json
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_3\bin\Debug\net8.0\Seminar_3.runtimeconfig.json
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_3\bin\Debug\net8.0\Seminar_3.dll
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_3\bin\Debug\net8.0\Seminar_3.pdb
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_3\obj\Debug\net8.0\Seminar_3.dll
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_3\obj\Debug\net8.0\refint\Seminar_3.dll
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_3\obj\Debug\net8.0\Seminar_3.pdb
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_3\obj\Debug\net8.0\Seminar_3.genruntimeconfig.cache
+C:\Users\kurba\Documents\GitHub\CSharp_GeekBrains\Dive_into_C#\Seminar_3\obj\Debug\net8.0\ref\Seminar_3.dll
